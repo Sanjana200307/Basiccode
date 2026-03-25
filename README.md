@@ -2,40 +2,7 @@
 <html>
 <head>
     <title>My Portfolio</title>
-    <style>
-        body {
-            font-family: Arial;
-            margin: 0;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        header {
-            background: #333;
-            color: white;
-            padding: 20px;
-        }
-        section {
-            margin: 20px;
-            padding: 20px;
-            background: white;
-            border-radius: 10px;
-        }
-        h2 {
-            color: #333;
-        }
-        footer {
-            background: #333;
-            color: white;
-            padding: 10px;
-        }
-        button {
-            padding: 10px;
-            background: blue;
-            color: white;
-            border: none;
-            border-radius: 5px;
-        }
-    </style>
+    
 </head>
 
 <body>
