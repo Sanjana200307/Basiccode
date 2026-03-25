@@ -67,15 +67,7 @@
     <button onclick="showMsg()">Say Hello</button>
 </section>
 
-<footer>
-    <p>© 2026 Sanjana</p>
-</footer>
 
-<script>
-function showMsg() {
-    alert("Thanks for visiting my portfolio 😊");
-}
-</script>
 
 </body>
 </html>
